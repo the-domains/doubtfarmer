@@ -1,0 +1,28 @@
+name: doubtfarmer
+favicon: null
+layout_spectrum: 0.42043198901228607
+typography_spectrum: 0.4097390570677817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5296027625445276
+  lightness: 0.8377049560658634
+  saturation: 0.7371560879983008
+  rhythmicContrast: 0.0828176811337471
+purpose: []
