@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[doubtfarmer]]></title>
+        <description><![CDATA[doubtfarmer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 21:49:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why are Christians so obsessed with genital mutilation? Were a group of nomads sitting around the fire 2000 years ago trying to come up with a way to stand out among other competing religions? Maybe it went something like this:Goat Herder #1: "Hey, Jonah. How can we be a little different and make God proud?"</p>]]></description>
+            <link>undefinedwhy-are-christians-so-obsessed-with-genital-mutilation-were/index.html</link>
+            <guid isPermaLink="false">87ff1d99-037b-4c69-8b12-14321ff11529</guid>
+            <pubDate>Mon, 09 May 2016 21:49:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
